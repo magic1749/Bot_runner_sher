@@ -21,9 +21,9 @@ from telegram.constants import ChatMemberStatus
 from telegram.request import HTTPXRequest
 
 # ================== CONFIG ==================
-BOT_TOKEN = "8599012194:AAF8NQW7AfkhiJI_APldCzJBZS_zYOifEo8"
+BOT_TOKEN = "8568094930:AAGZ27fNm3vddCWrwZw1-7_RD08JVOmYBMA"
 
-ADMINS = [7023863594]  # apna telegram user id
+ADMINS = [7378495445]  # apna telegram user id
 
 CHANNELS_FILE = "channels.json"
 VERIFIED_FILE = "verified.json"
